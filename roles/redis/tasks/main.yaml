@@ -1,5 +1,5 @@
 - name: install redis component
-  hosts: redis
+  hosts: "{{component}}"
   become: yes
   tasks:
   - name: install redis repo
