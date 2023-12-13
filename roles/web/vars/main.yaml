@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.devopsuday.online
+USER_HOST: user.devopsuday.online
+CART_HOST: cart.devopsuday.online
+SHIPPING_HOST: shipping.devopsuday.online
+PAYMENT_HOST: payment.devopsuday.online
